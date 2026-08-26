@@ -84,5 +84,8 @@ and this has been flagged in a Q&A session for confirmation.
 
 - Study Material Coach agent: [github.com/meerabc/flyrank-ai-fluency-study-agent](https://github.com/meerabc/flyrank-ai-fluency-study-agent)
 - Personal site (PF-04, current): [meerabchaudhary.netlify.app](https://meerabchaudhary.netlify.app/)
-- Earlier portfolio project (frontend track work, referenced in early Week 1-7 assignments): [meerabchaudhary.vercel.app](https://meerabchaudhary.vercel.app/)
+- portfolio project (frontend track work, referenced in early Week 1-7 assignments): [meerabchaudhary.vercel.app](https://meerabchaudhary.vercel.app/)
 - This index: [github.com/meerabc/flyrank-ai-fluency-index](https://github.com/meerabc/flyrank-ai-fluency-index)
+- Retrospective: [RETROSPECTIVE.md](./RETROSPECTIVE.md)
+- FL-10 build-in-public post: [LinkedIn post](https://lnkd.in/p/dRVEFk7K)
+- Portfolio build-in public post: 
